@@ -23,6 +23,7 @@ import java.util.Vector;
 import com.wxiwei.office.fc.hslf.model.textproperties.AutoNumberTextProp;
 import com.wxiwei.office.fc.hslf.model.textproperties.TextPropCollection;
 import com.wxiwei.office.fc.hslf.record.*;
+import com.wxiwei.office.fc.hslf.record.Record;
 import com.wxiwei.office.fc.hslf.usermodel.RichTextRun;
 import com.wxiwei.office.fc.hslf.usermodel.SlideShow;
 import com.wxiwei.office.fc.util.StringUtil;

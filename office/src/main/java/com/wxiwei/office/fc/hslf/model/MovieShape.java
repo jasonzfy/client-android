@@ -24,6 +24,7 @@ import com.wxiwei.office.fc.ddf.EscherContainerRecord;
 import com.wxiwei.office.fc.ddf.EscherProperties;
 import com.wxiwei.office.fc.hslf.exceptions.HSLFException;
 import com.wxiwei.office.fc.hslf.record.*;
+import com.wxiwei.office.fc.hslf.record.Record;
 import com.wxiwei.office.fc.hslf.usermodel.SlideShow;
 
 
