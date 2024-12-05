@@ -40,6 +40,8 @@ Android 客户端支持通过扫码授权的方式，在其他终端设备上快
 
 - 安装 Java 开发工具包 (JDK)，配置 JAVA_HOME 环境变量
 - 下载并安装 Android Studio 开发工具，在安装过程中，选择安装 Android SDK 和其他必要的组件
+
+  注：当前使用JDK_17版本进行编译，针对Android Studio LadyBug版本，配置入口为：Settings->Build, Execution, Deployment->Build Tools->Gradle，在Gradle JDK中下载并选择jbr-17版本
 - 创建 Android 虚拟设备（AVD），或使用Android系统手机，打开开发者选项，连接开发设备
 
 ### 源码下载

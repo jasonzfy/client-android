@@ -41,7 +41,10 @@ The Android client supports quick login on other terminal devices by scanning co
 - Install Java Development Kit (JDK) and configure the JAVA_HOME environment variable.
 
 - Download and install Android Studio development tool. During the installation process, choose to install Android SDK and other necessary components.
-
+   
+   Note: Currently using JDK 17 for compilation. For Android Studio LadyBug version, the configuration path is:
+  Settings -> Build, Execution, Deployment -> Build Tools -> Gradle.
+Download and select the jbr-17 version under Gradle JDK.
 - Create an Android Virtual Device (AVD), or use an Android phone. Open the Developer Options and connect the development device.
 
 ### Source code download
